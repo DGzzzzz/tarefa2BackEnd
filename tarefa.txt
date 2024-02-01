@@ -1,0 +1,9 @@
+inicio
+    1. Acordo;
+    2. Abro os olhos;
+    3. Levanto da cama;
+    4. Desligo o despertador;
+    5. Vou até o banheiro;
+    6. Escovo os dentes;
+    7. Troco de roupa;
+Fim
